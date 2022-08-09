@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BDA</string>
+    <string name="enter_full_name">Enter Full name</string>
+    <string name="enter_id_number">Enter Id Number</string>
+    <string name="enter_full_number">Enter Full Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="blodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>
